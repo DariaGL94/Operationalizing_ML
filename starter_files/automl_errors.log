@@ -1,0 +1,12 @@
+2023-02-08 10:15:56.392 - INFO - 13252 - azureml.automl.core.dataset_utilities._save_datasets_to_json:255 - JSON serialization of input of type <class 'NoneType'> is un-supported.
+2023-02-08 10:15:56.406 - INFO - 13252 - azureml.automl.core.dataset_utilities._save_datasets_to_json:255 - JSON serialization of input of type <class 'NoneType'> is un-supported.
+2023-02-08 10:15:56.407 - INFO - 13252 - azureml.train.automl._experiment_drivers.driver_utilities.validate_input:124 - Start data validation.
+2023-02-08 10:15:56.525 - INFO - 13252 - azureml.train.automl._experiment_drivers.driver_utilities.validate_input:137 - Validation service found the data has no errors.
+2023-02-08 10:19:45.535 - INFO - 13662 - azureml.automl.core.dataset_utilities._save_datasets_to_json:255 - JSON serialization of input of type <class 'NoneType'> is un-supported.
+2023-02-08 10:19:45.556 - INFO - 13662 - azureml.automl.core.dataset_utilities._save_datasets_to_json:255 - JSON serialization of input of type <class 'NoneType'> is un-supported.
+2023-02-08 10:19:45.563 - INFO - 13662 - azureml.train.automl._experiment_drivers.driver_utilities.validate_input:124 - Start data validation.
+2023-02-08 10:19:45.728 - INFO - 13662 - azureml.train.automl._experiment_drivers.driver_utilities.validate_input:137 - Validation service found the data has no errors.
+2023-02-08 10:23:57.447 - INFO - 13662 - azureml.automl.core.dataset_utilities._save_datasets_to_json:255 - JSON serialization of input of type <class 'NoneType'> is un-supported.
+2023-02-08 10:23:57.454 - INFO - 13662 - azureml.automl.core.dataset_utilities._save_datasets_to_json:255 - JSON serialization of input of type <class 'NoneType'> is un-supported.
+2023-02-08 10:23:57.462 - INFO - 13662 - azureml.train.automl._experiment_drivers.driver_utilities.validate_input:124 - Start data validation.
+2023-02-08 10:23:57.645 - INFO - 13662 - azureml.train.automl._experiment_drivers.driver_utilities.validate_input:137 - Validation service found the data has no errors.
