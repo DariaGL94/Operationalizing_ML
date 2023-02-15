@@ -6,6 +6,9 @@
 In this project I configure an automated ML experiment in Azure in order to choose the best model to predict the outcome of a bankmarketing campaign. The best model will be deployed and consumed. In addition, I create a pipeline consisting of the bankmarketing data and the previous AutoML model. This pipeline will be published and consumed as well.
 
 ## Architectural Diagram
+
+![plot](./diagramm.png)
+
 1. Using Automated ML to determine the best model
 2. Deploying the best model to deliver a trained model into production
 3. Enabling application insights to detect anomalies and visualize performance
