@@ -7,7 +7,7 @@ In this project I configure an automated ML experiment in Azure in order to choo
 
 ## Architectural Diagram
 
-![Screenshot](diagramm.png)
+![Screenshot](diagramm.PNG)
 
 1. Using Automated ML to determine the best model
 2. Deploying the best model to deliver a trained model into production
